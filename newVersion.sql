@@ -1,4 +1,4 @@
--- rewrite by hewz at 2024-11-20
+-- rewrite by hewz on 2024-11-20
 -- 定义 CTE
 WITH cte AS (
     -- 提取基本测点信息，包括工单、设备、测点值、记录时间等
